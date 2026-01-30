@@ -66,7 +66,7 @@ export function ContactSection() {
               </a>
               <div className="flex items-center gap-3">
                 <Clock className="h-5 w-5" />
-                <span>Mon - Sat: 8:00 AM - 3:00 PM</span>
+                <span>Mon - Sat: 8:00 AM - 4:00 PM</span>
               </div>
             </div>
             <Button asChild className="w-full mt-6 bg-secondary hover:bg-secondary/90 text-secondary-foreground">
